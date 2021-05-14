@@ -50,6 +50,8 @@ router.get('/:id', async (req, res) => {
   }
 });
 
+
+//POST
 router.post('/', (req, res) => {
   // create a new category
 
